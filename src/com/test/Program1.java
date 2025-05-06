@@ -6,6 +6,7 @@ public class Program1 {
 		
 		System.out.println("hello world!!");
 		int n;
+		System.out.println("I am editing");
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("enter the number");
